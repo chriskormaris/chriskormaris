@@ -24,4 +24,4 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 - 📫 How to reach me: [chriskormaris@gmail.com](mailto:chriskormaris@gmail.com)
 - ⚡ Fun fact: I'm always thinking about a song in my head.
 
-For more information about me, please visit my personal website: [www.chriskormaris.gr](www.chriskormaris.gr)
+For more information about me, please visit my personal website: [www.chriskormaris.gr](https://www.chriskormaris.gr)
