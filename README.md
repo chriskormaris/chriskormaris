@@ -21,5 +21,5 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 - 🔭 I’m currently working on a company called `XM`, which is a Forex broker. My colleagues are very good.
 - 🌱 I’m currently learning `Java Spring`
 - 💬 Ask me about: `Java`, `Python`, `Machine Learning` & `Good Music`
-- 📫 How to reach me: `chriskormaris@gmail.com`
+- 📫 How to reach me: [chriskormaris@gmail.com](mailto:chriskormaris@gmail.com)
 - ⚡ Fun fact: I'm always thinking about a song in my head.
