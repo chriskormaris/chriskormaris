@@ -28,4 +28,6 @@ My proudest academic project is my diploma postgraduate thesis: [Postgraduate Th
 
 My proudest personal project is my own chess game, which I've developed in Java: [MyChessGame](https://www.youtube.com/watch?v=Uo5cH2rW5So)
 
+---
+
 For more information about me, please visit my personal website: [www.chriskormaris.gr](https://www.chriskormaris.gr)
