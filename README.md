@@ -25,6 +25,7 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 - ⚡ Fun fact: I'm always thinking about a song in my head.
 
 My proudest academic project is my diploma postgraduate thesis: [Postgraduate Thesis - Variational Autoencoders & Applications](https://www.researchgate.net/publication/337000568_Postgraduate_Thesis_-_Variational_Autoencoders_Applications)
+
 My proudest personal project is my own chess game, which I've developed in Java: [MyChessGame](https://www.youtube.com/watch?v=Uo5cH2rW5So)
 
 For more information about me, please visit my personal website: [www.chriskormaris.gr](https://www.chriskormaris.gr)
