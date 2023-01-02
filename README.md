@@ -32,4 +32,9 @@ My proudest personal project is my own chess game, which I've developed in Java:
 
 ---
 
+You can download all my packaged java `.jar` games here:
+https://drive.google.com/drive/folders/1OwbpffINPk-NaCsghC218fu4QNBwT4VK?usp=share_link
+
+---
+
 For more information about me, please visit my personal website: [www.chriskormaris.gr](https://www.chriskormaris.gr)
