@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 My name is Christos Kormaris. I am an ordinary guy who loves programming and playing the guitar, blues mostly and catchy tunes. 
 - 🔭 I’m currently working on a company called `XM`, which is a Forex broker. My colleagues are very good.
-- 🌱 I’m currently learning `Java Spring WebFlux Framework`
-- 💬 Ask me about: `Java`, `Python`, `Matlab`, `PHP`, `MySQL`, `JavaScript`, `C`, `C++`, `Assembly`, `Machine Learning` & `Good Music`
+- 🌱 I’m currently diving into `Amazon AWS`.
+- 💬 Ask me about: `Java`, `Python`, `C`, `C++`, `Matlab`, `JavaScript`, `PHP`, `MySQL`, `Machine Learning` & `Good Music`
 - 📫 How to reach me: [chriskormaris@gmail.com](mailto:chriskormaris@gmail.com)
 - ⚡ Fun fact: I'm always thinking about a song in my head.
 
 ---
 
-My proudest academic project is my master thesis: [Postgraduate Thesis - Variational Autoencoders & Applications](https://www.researchgate.net/publication/337000568_Postgraduate_Thesis_-_Variational_Autoencoders_Applications)
+My proudest academic project is my master thesis: [Postgraduate Thesis - Variational Autoencoders & Applications](https://www.researchgate.net/publication/337000568)
 Master thesis Bitbucket repository: https://bitbucket.org/Iptamenos/vae-master-thesis
 
 ---
