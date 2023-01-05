@@ -28,13 +28,17 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 
 My proudest academic project is my master thesis: [Postgraduate Thesis - Variational Autoencoders & Applications](https://www.researchgate.net/publication/337000568)
 
-Master thesis Bitbucket repository: https://bitbucket.org/Iptamenos/vae-master-thesis
+Master thesis Bitbucket repository: https://bitbucket.org/chriskormaris/vae-master-thesis
 
 ---
 
 My proudest personal project is my own chess game, which I've developed in Java: [My Chess Game in Java Swing](https://www.youtube.com/watch?v=rgYDlqQ_WSI&t=2s)
 
 ---
+
+You can find YouTube video demos for my programming projects here:
+
+https://www.youtube.com/playlist?list=PLV08zt7F7NIhGfG5zGpFeDOvR30Mi6nM2
 
 You can download all my packaged java `.jar` games here:
 
