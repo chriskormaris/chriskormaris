@@ -26,9 +26,11 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 
 ---
 
-My proudest academic project is my master thesis: [Postgraduate Thesis - Variational Autoencoders & Applications](https://www.researchgate.net/publication/337000568)
+My proudest academic project is my master thesis.
 
-Master thesis Bitbucket repository: https://bitbucket.org/chriskormaris/vae-master-thesis
+[ResearchGate](https://www.researchgate.net/publication/337000568)
+
+[Bitbucket](https://bitbucket.org/chriskormaris/vae-master-thesis)
 
 ---
 
