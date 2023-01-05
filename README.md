@@ -29,7 +29,6 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 My proudest academic project is my master thesis.
 
 [ResearchGate](https://www.researchgate.net/publication/337000568)
-
 [Bitbucket](https://bitbucket.org/chriskormaris/vae-master-thesis)
 
 ---
