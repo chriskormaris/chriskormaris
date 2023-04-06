@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Christos Kormaris. I am an ordinary guy who loves programming and playing the guitar, blues mostly and catchy tunes. 
 - 🔭 I’m currently working on a company called `XM`, which is a Forex broker. My colleagues are very good.
-- 🌱 I’m currently diving into `Amazon AWS`.
+- 🌱 I’m currently learning `React framework`.
 - 💬 Ask me about: `Java`, `Python`, `C`, `C++`, `Matlab`, `JavaScript`, `PHP`, `MySQL`, `Machine Learning` & `Good Music`
 - 📫 How to reach me: [chriskormaris@gmail.com](mailto:chriskormaris@gmail.com)
 - ⚡ Fun fact: I'm always thinking about a song in my head.
