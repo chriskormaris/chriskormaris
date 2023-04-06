@@ -28,11 +28,13 @@ My name is Christos Kormaris. I am an ordinary guy who loves programming and pla
 
 My proudest academic project is my master thesis.
 [ResearchGate](https://www.researchgate.net/publication/337000568)
+[GitHub](https://github.com/chriskormaris/vae-master-thesis)
 [Bitbucket](https://bitbucket.org/chriskormaris/vae-master-thesis)
 
 ---
 
 My proudest personal project is my own chess game, which I've developed in Java.
+[GitHub](https://github.com/chriskormaris/MyChessGame)
 [YouTube](https://www.youtube.com/watch?v=rgYDlqQ_WSI&t=2s)
 
 ---
