@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 My name is Christos Kormaris. I am an ordinary guy who loves programming and playing the guitar, blues mostly and catchy tunes. 
 - 🔭 I'm currently working for the Greek Government.
 - 🔭 I used to work for the company `XM`, which is a Forex broker. My colleagues were very good.
-- 🌱 I’m currently learning `React framework`.
-- 💬 Ask me about: `Java`, `Python`, `Machine Learning`, `JavaScript`, `Matlab`, `C`, `C++`, `PHP`, `MySQL`,  & `Good Music`
+- 🌱 I’m currently working on my 2nd master thesis.
+- 💬 Ask me about: `Java`, `Python`, `React`, `Cloud`, `AI`  & `Good Music`
 - 📫 How to reach me: [chriskormaris@gmail.com](mailto:chriskormaris@gmail.com)
 - ⚡ Fun fact: I'm always thinking about a song in my head.
 
