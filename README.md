@@ -34,7 +34,7 @@ My proudest academic project is my master thesis.
 
 ---
 
-My proudest personal project is my own chess game, which I've developed in Java, from scratch.
+My proudest personal project is a chess game, which I've developed in Java, on my own, from scratch (before the LLM era).
 [GitHub](https://github.com/chriskormaris/MyChessGame)
 [YouTube](https://www.youtube.com/watch?v=rgYDlqQ_WSI&t=2s)
 
