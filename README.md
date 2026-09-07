@@ -50,4 +50,4 @@ https://drive.google.com/drive/folders/1OwbpffINPk-NaCsghC218fu4QNBwT4VK?usp=sha
 
 ---
 
-For more information about me, please visit my personal website: [www.chriskormaris.gr](https://www.chriskormaris.gr)
+For more information about me, please visit my personal website: [https://chriskormaris.wordpress.com](https://chriskormaris.wordpress.com)
